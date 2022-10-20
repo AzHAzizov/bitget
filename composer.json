@@ -1,5 +1,5 @@
 {
-    "name": "atomix/bitget-php-sdk-api",
+    "name": "atomix/bitget",
     "type": "n",
     "autoload": {
         "psr-4": {
