@@ -1,0 +1,16 @@
+{
+    "name": "atomix/bitget-php-sdk-api",
+    "type": "n",
+    "autoload": {
+        "psr-4": {
+            "bitget\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AzHAzizov",
+            "email": "azjhazizov@gmail.com"
+        }
+    ],
+    "require": {}
+}
