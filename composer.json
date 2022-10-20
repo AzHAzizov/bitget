@@ -1,6 +1,6 @@
 {
     "name": "atomix/bitget",
-    "type": "n",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "bitget\\": "src/"
